@@ -1,5 +1,4 @@
 ### Hi there visitors👋
-![157056697-cfdc306f-43d0-469a-9c52-3f753af01ed9](https://user-images.githubusercontent.com/91695834/157672285-db78aa52-9534-4f16-96b0-c13677ca68e3.png)
 
 <!--
 **Dewansh07/Dewansh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
