@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Website development**
 
-- 🌱 I’m currently learning **Backend, Kotlin, Flutter, FireBase, Tensroflow**
+- 🌱 I’m currently learning **Backend, Flutter, FireBase, Tensroflow**
 
 - 💬 Ask me about **python, Freelancing Opportunities, C++**
 
